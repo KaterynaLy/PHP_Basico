@@ -18,4 +18,6 @@ echo $bool ? "boolean impreso" : "boolean is true" . "<br/>";
 // 2
 define("MiNombre", "KATERYNA LYSENKO");
 echo "<h1>" . MiNombre . "</h1>";
+
+
 ?>
